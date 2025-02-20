@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Computer Science student at Lehman College focusing on Cybersecurity.Gaining hands-on experience through coursework, projects, and an online course.I currently have some experince on java,html and planning to learn pyhthon. I'm currently taking an online cybersecurity certificate on coursera.My hobbies are video gaming,watching movies and sports.
+I’m a Computer Science student at Lehman College with a focus on Cybersecurity. I’m gaining hands-on experience through coursework, projects, and an online cybersecurity certificate from Coursera. I have experience in Java and HTML, and I’m planning to learn Python soon. When I’m not coding, I enjoy video gaming, watching movies, and following sports.
 
 
 ![My skills](https://skillicons.dev/icons?i=linkedin,java,html,)
