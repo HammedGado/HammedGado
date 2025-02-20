@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm a Computer Science student at Lehman College focusing on Cybersecurity.Gaining hands-on experience through coursework, projects, and an online course.I currently have some experince on java,html and planning to learn pyhthon. I'm currently taking an online cybersecurity certificate on coursera.My hobbies are video gaming,watching movies and sports.
+
+
+![My skills](https://skillicons.dev/icons?i=linkedin,java,html,)
+
+
+<a href = "https://www.linkedin.com/in/hammed-gado-81b22327b/" /> <img src = "https://img.shields.io/badge/%2540-Linkedin-blue?label=Check%20Out%20My" />
 
 <!--
 **HammedGado/HammedGado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
