@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a Computer Science student at Lehman College with a focus on Cybersecurity. I’m gaining hands-on experience through coursework, projects, and an online cybersecurity certificate from Coursera. I have experience in Java and HTML, and I’m planning to learn Python soon. When I’m not coding, I enjoy video gaming, watching movies, and following sports.
+I’m a Computer Science student at Lehman College focused on Cybersecurity. I have hands-on experience in network traffic analysis (tcpdump), incident response, and Python automation through coursework and practical projects. I’ve also completed a cybersecurity certificate from Coursera. I have experience with Java, HTML, and JavaScript, and I’m actively building projects to strengthen my skills for SOC and Blue Team roles.
 
 
 ![My skills](https://skillicons.dev/icons?i=linkedin,java,html,)
