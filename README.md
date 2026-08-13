@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a Computer Science student at Lehman College focused on Cybersecurity. I have hands-on experience in network traffic analysis (tcpdump), incident response, and Python automation through coursework and practical projects. I’ve also completed a cybersecurity certificate from Coursera. I have experience with Java, HTML, and JavaScript, and I’m actively building projects to strengthen my skills for SOC and Blue Team roles.
+I'm a Computer Science graduate from Lehman College focused on Cybersecurity. I build hands-on cybersecurity labs centered on Blue Team operations, network analysis, Windows administration, incident response, and threat detection. Through practical projects, I've gained experience with Wireshark, Splunk, Suricata, Windows Event Logs, Linux log analysis, Nmap, Python automation, and network traffic analysis (tcpdump). I also completed the Google Cybersecurity Professional Certificate on Coursera and continue expanding my skills for SOC Analyst and Blue Team roles.
 
 
 ![My skills](https://skillicons.dev/icons?i=linkedin,java,html,)
